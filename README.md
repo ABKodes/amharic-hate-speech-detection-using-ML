@@ -1,11 +1,11 @@
 # Amharic Hate Speech Detection Using Machine Learning 
 
-![Demo](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/main/Demo/demo.png)
+![Demo](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/master/Demo/demo.png)
 
 ### Example of Normal Speech
-![Normal Speech](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/main/Demo/Normal%20Text.png)
+![Normal Speech](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/master/Demo/Normal%20Text.png)
 ### Example of Hate Speech
-![Hate Speech](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/main/Demo/Hate%20Text.png)
+![Hate Speech](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/master/Demo/Hate%20Text.png)
 
 ---
 
