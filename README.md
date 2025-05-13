@@ -3,11 +3,16 @@
 ![Demo](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/master/Demo/demo.png)
 
 ### Example of Normal Speech
+<<<<<<< HEAD
 
 ![Normal Speech](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/master/Demo/Normal%20Text.png)
 
 ### Example of Hate Speech
 
+=======
+![Normal Speech](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/master/Demo/Normal%20Text.png)
+### Example of Hate Speech
+>>>>>>> 5973de328f0338716adeda7c925017ddf2cf2675
 ![Hate Speech](https://github.com/abkodes/amharic-hate-speech-detection-using-ML/blob/master/Demo/Hate%20Text.png)
 
 ---
